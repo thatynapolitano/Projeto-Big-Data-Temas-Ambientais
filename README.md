@@ -24,4 +24,4 @@ Calcular o percentual médio de área remanescente de vegetação nativa em comp
 Construa uma consulta que mostre a contagem de propriedades rurais por estado.
 ### Consulta 6:
 Faça a média de área entre todas as propriedades. Calcule quantas propriedades por
-estado, estão acima da média.
+estado, estão acima da média 
