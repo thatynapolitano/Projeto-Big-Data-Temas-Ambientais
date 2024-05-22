@@ -23,7 +23,7 @@ O Cadastro Ambiental Rural é um banco de dados que contém informações sobre 
 Foram utilizados os dados oficiais de [Cadastro Ambiental Rural](https://dados.gov.br/dados/conjuntos-dados/cadastro-ambiental-rural1) no site Gov.br.
 
 ## Pré-requisitos
-- Python3
+- <img alt="Python version" src="https://img.shields.io/badge/python-3.11.2-black"/>
 - <img alt="PostgreSQL version" src="https://img.shields.io/badge/postgreSQL-16-blue"/>
 - <img alt="Databricks" src="https://img.shields.io/badge/Databricks-12.2 LTS-red"/>
 - <img alt="Databricks" src="https://img.shields.io/badge/Spark-3.3.2-purple"/>
